@@ -57,7 +57,7 @@ print(mid_apps)
 
 
 
-labels = "Bad, Ok, Good"
+labels = "Bad", "Ok", "Good"
 sizes = [not_pop_pct, mid_apps, pop_pct]
 colors = ["yellow", "red", "blue"]
 explode = (0.1, 0.1, 0.15)
